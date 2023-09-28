@@ -1,4 +1,4 @@
-Code for GKD (AAAI2023)
+Code for [GKD](https://arxiv.org/pdf/2304.04462.pdf)
 
 The loss.py has been uploaded and it's recommended to replace the vanilla loss function by GKD loss. [Tface](https://github.com/Tencent/TFace/tree/master/recognition/tasks/ekd)
 
